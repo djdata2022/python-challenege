@@ -1,4 +1,4 @@
-# python-challenege
+# python-challenge
 Module 3 challenge due 1/18/23
 
 ## PyBank Analysis
